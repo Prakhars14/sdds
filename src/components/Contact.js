@@ -30,7 +30,7 @@ const Contact = () => {
                 </Col>
             </Row>
             <Row className="d-flex justify-content-center m-5 ">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28467.013812013105!2d83.8353654!3d26.8915366!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3993f1102fb05a55%3A0x6b68f810413a9dd8!2sShiv%20Dulari%20Devi%20Daldapshahi%20Mahila%20Mahavidyalaya!5e0!3m2!1sen!2sin!4v1605644398328!5m2!1sen!2sin" style={{width:"600",height:"450", frameborder:"0", border:"none"}}></iframe>
+            <iframe title="1" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d28467.013812013105!2d83.8353654!3d26.8915366!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3993f1102fb05a55%3A0x6b68f810413a9dd8!2sShiv%20Dulari%20Devi%20Daldapshahi%20Mahila%20Mahavidyalaya!5e0!3m2!1sen!2sin!4v1605644398328!5m2!1sen!2sin" style={{width:"600",height:"450", frameborder:"0", border:"none"}}></iframe>
             </Row>
             </Container>
         </>

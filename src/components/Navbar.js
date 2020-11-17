@@ -1,6 +1,4 @@
 import React, {useState} from "react";
-import {ReactNavbar} from "react-responsive-animate-navbar";
-import banner from '../assets/images/02.jpg';
 import {
   Collapse,
   Navbar,
@@ -8,7 +6,6 @@ import {
   NavbarBrand,
   Nav,
   NavItem,
-  NavLink,
   UncontrolledDropdown,
   DropdownToggle,
   DropdownMenu,

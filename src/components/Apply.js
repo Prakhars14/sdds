@@ -1,6 +1,6 @@
 import React from 'react'
 import { Col, Container, Row } from 'reactstrap'
-import {  Button, Form, FormGroup, Label, Input, FormText } from 'reactstrap';
+import {  Button, Form, FormGroup, Label, Input } from 'reactstrap';
 const Apply = () => {
     return (
         <>

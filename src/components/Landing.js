@@ -3,12 +3,9 @@ import { Col, Container, Row, Carousel,
     CarouselItem,
     CarouselControl,
     CarouselIndicators,
-    CarouselCaption, 
     Table} from 'reactstrap';
 import banner from '../assets/images/02.jpg';
 import vivek from '../assets/images/vivek.jpg';
-import car2 from '../assets/images/car2.jpg';
-import car3 from '../assets/images/car3.jpg';
 import i3 from '../assets/images/03.jpg';
 import i4 from '../assets/images/04.jpg';
 import i5 from '../assets/images/05.jpg';
